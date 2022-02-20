@@ -1,4 +1,8 @@
+.resources__logo-link {
+    display: flex;
+}
+
 .resources__logo-link:hover {
     transition: .2s linear;
     opacity: 70%;
-  }
+}

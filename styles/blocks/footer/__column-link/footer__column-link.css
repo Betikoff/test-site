@@ -1,4 +1,4 @@
-.footer__columns-link {
+.footer__column-link {
     line-height: 18px;
     font-size: 18px;
     font-weight: 400;
@@ -6,13 +6,13 @@
     color: #fff;
     margin-bottom: 10px;
     display: block;
-  }
+}
 
-  .footer__columns-link:hover {
+.footer__column-link:hover {
     transition: .2s linear;
     opacity: 70%;
-  }
+}
 
-  .footer__columns-link:last-child {
+.footer__column-link:last-child {
     margin-bottom: 0;
-  }
+}
