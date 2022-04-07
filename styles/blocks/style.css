@@ -219,7 +219,7 @@
 
 /* cover */
 .cover {
-    background: url("/images/cover-trains.jpg") center center / cover;
+    background: url("./images/cover-trains.jpg") center center / cover;
     position: relative;
     z-index: 1;
 }
