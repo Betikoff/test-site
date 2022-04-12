@@ -1,0 +1,12 @@
+.places__descriprion {
+    grid-area: descriprion;
+    margin: 0;
+    padding: 0;
+}
+  
+@media screen and (max-width: 767px) {
+    .places__descriprion {
+        padding: 0 16px;
+    }
+}
+  
